@@ -1,0 +1,3 @@
+params = {'Client-ID': 'r0ay47cwvzojw6yh55qojmy9nq14kx'}
+
+API_KEY = 'dJTI23aOoaqfTX0gwQPZ'

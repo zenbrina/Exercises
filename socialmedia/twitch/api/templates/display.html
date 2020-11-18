@@ -1,0 +1,10 @@
+<form method=post action="">
+  Twitch User Login: {{ form.user_login }}
+  <input type=submit value=send>
+</form>
+
+{% if form.user_login.data %}
+  <p>Please Select a Valid Streamer</p>
+  <!-- {{ form.user_login.data }} -->
+  {{ response_json }}
+{% endif %}

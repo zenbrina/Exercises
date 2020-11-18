@@ -1,0 +1,11 @@
+Analyzing Twitch Viewership Data in Python
+
+// Quick Blurb
+A quick project with python again since running Unity on my 4 y/o Mac was not ideal. This time, I made a tool that helps you analyze twitch user-video data. We use the Python requests library to make calls to the Twitch API and display the information with d3.js charts. 
+
+// Resources
+- Charts: https://blog.ruanbekker.com/blog/2017/12/14/graphing-pretty-charts-with-python-flask-and-chartjs/
+- Twitch: https://dev.twitch.tv/docs/api/reference/
+
+// Tags
+- data science with python, python data science, data science 101, data science, analyzing twitch data, analyzing twitch with python, analyzing twitch viewership data in python, analyzing twitch in python, dev ed, techlead
